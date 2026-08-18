@@ -16,22 +16,6 @@
 - ✍️ 喜欢把实践经验整理成清晰、可复用的方法
 - 🌱 持续学习产品、技术与内容表达
 
-## 关注方向
-
-![AI Product](https://img.shields.io/badge/AI_Product-111827?style=flat-square)
-![AIGC](https://img.shields.io/badge/AIGC-7c3aed?style=flat-square)
-![AI Agent](https://img.shields.io/badge/AI_Agent-2563eb?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-059669?style=flat-square)
-![Product Design](https://img.shields.io/badge/Product_Design-e11d48?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-f59e0b?style=flat-square)
-
-## 精选项目
-
-| 项目 | 简介 |
-| --- | --- |
-| [🌐 我的个人博客](https://betterjally-oss.github.io/) | 记录产品思考、AI 实践与持续学习 |
-| [📕 小红书 AI 术语](https://github.com/betterjally-oss/xiaohongshu-ai-terminology) | 用故事化中文图文解释 AI 概念 |
-
 ## GitHub 数据
 
 <div align="center">
