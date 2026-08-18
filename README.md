@@ -16,15 +16,6 @@
 - ✍️ 喜欢把实践经验整理成清晰、可复用的方法
 - 🌱 持续学习产品、技术与内容表达
 
-## GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=betterjally-oss&theme=transparent" alt="Lio 的 GitHub 数据" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betterjally-oss&theme=transparent" alt="Lio 的常用编程语言" />
-
-</div>
-
 ## 找到我
 
 - 🌐 个人博客：[betterjally-oss.github.io](https://betterjally-oss.github.io/)
