@@ -2,7 +2,7 @@
 
 # 👋 你好，我是 Lio
 
-### AI 产品经理 · 把想法变成真正可用的产品
+### AI 产品经理 · 用AI产品改变世界
 
 [![个人博客](https://img.shields.io/badge/个人博客-betterjally--oss.github.io-4F9CF9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://betterjally-oss.github.io/)
 [![联系邮箱](https://img.shields.io/badge/联系邮箱-betterjally%40gmail.com-FF7F8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betterjally@gmail.com)
